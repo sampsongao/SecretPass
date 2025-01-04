@@ -1,0 +1,8 @@
+Implement basic workflow
+  Try try to load user data on start
+  Vault folder path encrypted and need password to decryt
+    List all folders in user data when password is correct
+
+    Open dialog when no folder in metadata
+    https://www.youtube.com/watch?v=29jYoFD8p2k
+    https://www.electronjs.org/docs/latest/api/dialog#dialogshowopendialogbrowserwindow-options
